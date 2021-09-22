@@ -1,4 +1,4 @@
-# Vision_transformers_for_Plankton
+# plankifier_with_vision_tranformers
 
 Code for plankton dataset creation and classification based on Keras.
 
