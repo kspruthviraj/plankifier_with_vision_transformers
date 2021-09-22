@@ -301,25 +301,4 @@ The script produces a histogram with the taxonomist and the classifier counts.
 ---
 
 
-
-## To do:
-
-- Checkpointing wrapper function
-- Scanning of architecture and hyperparameters (e.g. using talos, or create class)
-- Different losses and metrics
-- Binary classifiers (use `binary_crossentropy loss` function)
-- Have an explicit control of initial conditions (currently, we're using default, but for example orthogonal initial conditions could be helpful)
-- Implement logging instead of print
-- learning rate schedule
-- Speed up the data reading
-- Hybrid labels
-- Merging lables (e.g. Carnivores, Herbivores, Plants)
-- Cross Validation
-- Weight averaging
-- Semi-supervised and active learning
-- Make unit tests
-- **Write this same list as an *issue*, and remove it from this readme file**
-
---- 
-
 ##
